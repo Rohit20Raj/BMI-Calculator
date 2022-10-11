@@ -47,7 +47,7 @@ setInterval(() => {
                 desc.style.color = "red";
             }
         }
-        }, 1000);
+        }, 100);
 // let calculate = document.getElementById('calc');
 
 // calculate.addEventListener('click', function(){
